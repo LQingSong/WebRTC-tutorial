@@ -10,7 +10,7 @@
 - [x] [Overview](./Overview.md)
 - [x] [Get the sample code](./Start.md)
 - [x] [Stream video from your webcam](./videoStream.md)
-- [ ] Stream video with RTCPeerConnection
+- [x] Stream video with RTCPeerConnection
 - [ ] Use RTCDataChannel to exchange data
 - [ ] Set up a signaling service to exchange message
 - [ ] Combine peer connection and signaling
